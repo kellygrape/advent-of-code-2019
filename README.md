@@ -14,7 +14,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Running Tests
 
-Each day contains its own set of tests. To run them type `npm test`.
+To run a day, go to that directory and run `node filename.js`
 
 ## Previous Years
 - [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2018/master/.github/badges/completion.json&label=2018)](https://github.com/mariotacke/advent-of-code-2018)
