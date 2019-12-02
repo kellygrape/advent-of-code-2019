@@ -10,17 +10,13 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Days
 
-- [Day 1: The Tyranny of the Rocket Equation](day-01-the-tyranny-of-the-rocket-equation/)
+- [Day 1: The Tyranny of the Rocket Equation](day01/)
 
-## Running Tests
+## Setting Up and Running
 
-To run a day, go to that directory and run `node filename.js`
-
-## Previous Years
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2018/master/.github/badges/completion.json&label=2018)](https://github.com/mariotacke/advent-of-code-2018)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2017/master/.github/badges/completion.json&label=2017)](https://github.com/mariotacke/advent-of-code-2017)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2016/master/.github/badges/completion.json&label=2016)](https://github.com/mariotacke/advent-of-code-2016)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2015/master/.github/badges/completion.json&label=2015)](https://github.com/mariotacke/advent-of-code-2015)
+I am doing this using Javascript over the command line.  For anyone new to Advent of Code,
+you can clone this repository and use the folder `day00` - there are some setup ideas there.  I'm very open to
+learning better ways to do this!
 
 ## Visit
 - http://adventofcode.com/2019
